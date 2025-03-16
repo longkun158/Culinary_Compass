@@ -37,4 +37,5 @@ The application uses IPCA, Cosine Similarity and Bayesian Personalized Ranking (
 ### Future work:
 - New and comprehensive data set can improve the features of the app immensely.
 - A Graph Neural Network can be built (When we have enough data) to build relationship between Users - Dishes - Ingredients. This new algorithm promises to have a better understanding of the complex relationships between Users - Dishes - Ingredients to have even better personalized results.
+- Combining with imployment + user experience will have a complete application (Streamlit, ...)
 
